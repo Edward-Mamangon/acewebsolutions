@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/acewebsolutions/static/css/main.073c9b0a.css",
-    "main.js": "/acewebsolutions/static/js/main.d9df9b16.js",
+    "main.css": "/acewebsolutions/static/css/main.d8a59a5b.css",
+    "main.js": "/acewebsolutions/static/js/main.688967a5.js",
     "static/js/787.dc03bbd8.chunk.js": "/acewebsolutions/static/js/787.dc03bbd8.chunk.js",
-    "static/media/logo.svg": "/acewebsolutions/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/video-2.mp4": "/acewebsolutions/static/media/video-2.ab4d3f5e30fa866b4e18.mp4",
+    "static/media/portfolio.jpg": "/acewebsolutions/static/media/portfolio.261415ea6c251cffd038.jpg",
+    "static/media/christer-portfolio.jpg": "/acewebsolutions/static/media/christer-portfolio.b0e0f24c88fb6b9625d1.jpg",
+    "static/media/rdn-portfolio.jpg": "/acewebsolutions/static/media/rdn-portfolio.ea8561d642ffa795b91e.jpg",
     "index.html": "/acewebsolutions/index.html",
-    "main.073c9b0a.css.map": "/acewebsolutions/static/css/main.073c9b0a.css.map",
-    "main.d9df9b16.js.map": "/acewebsolutions/static/js/main.d9df9b16.js.map",
+    "main.d8a59a5b.css.map": "/acewebsolutions/static/css/main.d8a59a5b.css.map",
+    "main.688967a5.js.map": "/acewebsolutions/static/js/main.688967a5.js.map",
     "787.dc03bbd8.chunk.js.map": "/acewebsolutions/static/js/787.dc03bbd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d9df9b16.js"
+    "static/css/main.d8a59a5b.css",
+    "static/js/main.688967a5.js"
   ]
 }
