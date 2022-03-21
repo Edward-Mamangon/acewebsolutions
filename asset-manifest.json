@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/acewebsolutions.github.io/static/css/main.d8a59a5b.css",
-    "main.js": "/acewebsolutions.github.io/static/js/main.e236af3f.js",
-    "static/js/787.dc03bbd8.chunk.js": "/acewebsolutions.github.io/static/js/787.dc03bbd8.chunk.js",
-    "static/media/video-2.mp4": "/acewebsolutions.github.io/static/media/video-2.ab4d3f5e30fa866b4e18.mp4",
-    "static/media/portfolio.jpg": "/acewebsolutions.github.io/static/media/portfolio.261415ea6c251cffd038.jpg",
-    "static/media/christer-portfolio.jpg": "/acewebsolutions.github.io/static/media/christer-portfolio.b0e0f24c88fb6b9625d1.jpg",
-    "static/media/rdn-portfolio.jpg": "/acewebsolutions.github.io/static/media/rdn-portfolio.ea8561d642ffa795b91e.jpg",
-    "index.html": "/acewebsolutions.github.io/index.html",
-    "main.d8a59a5b.css.map": "/acewebsolutions.github.io/static/css/main.d8a59a5b.css.map",
-    "main.e236af3f.js.map": "/acewebsolutions.github.io/static/js/main.e236af3f.js.map",
-    "787.dc03bbd8.chunk.js.map": "/acewebsolutions.github.io/static/js/787.dc03bbd8.chunk.js.map"
+    "main.css": "/acewebsolutions/static/css/main.d8a59a5b.css",
+    "main.js": "/acewebsolutions/static/js/main.688967a5.js",
+    "static/js/787.dc03bbd8.chunk.js": "/acewebsolutions/static/js/787.dc03bbd8.chunk.js",
+    "static/media/video-2.mp4": "/acewebsolutions/static/media/video-2.ab4d3f5e30fa866b4e18.mp4",
+    "static/media/portfolio.jpg": "/acewebsolutions/static/media/portfolio.261415ea6c251cffd038.jpg",
+    "static/media/christer-portfolio.jpg": "/acewebsolutions/static/media/christer-portfolio.b0e0f24c88fb6b9625d1.jpg",
+    "static/media/rdn-portfolio.jpg": "/acewebsolutions/static/media/rdn-portfolio.ea8561d642ffa795b91e.jpg",
+    "index.html": "/acewebsolutions/index.html",
+    "main.d8a59a5b.css.map": "/acewebsolutions/static/css/main.d8a59a5b.css.map",
+    "main.688967a5.js.map": "/acewebsolutions/static/js/main.688967a5.js.map",
+    "787.dc03bbd8.chunk.js.map": "/acewebsolutions/static/js/787.dc03bbd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8a59a5b.css",
-    "static/js/main.e236af3f.js"
+    "static/js/main.688967a5.js"
   ]
 }
